@@ -1,0 +1,78 @@
+.contact-container {
+  width: 80%;
+  margin: auto;
+  margin-top: 1rem;
+}
+
+.contact-container h1 {
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  border: 1px solid;
+  font-size: 18px;
+  margin: 5px auto;
+}
+textarea {
+  width: 100%;
+  margin: 5px auto;
+
+  resize: none;
+  height: 120px;
+}
+
+.contact-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact-container p {
+  text-align: center;
+}
+
+.contact-container button {
+  border: none;
+  background-color: blue;
+  color: white;
+  padding: 0.5rem;
+  margin-top:0.5rem;
+  border-radius: 5px;
+}
+
+.contact-container button a {
+  color: rgb(255, 225, 52);
+  text-align: center;
+
+}
+
+
+.contact-container button a:hover {
+    color: white;
+    text-align: center;
+    
+  }
+  
+.contact-container .fas{
+    text-align: center;
+}
+
+
+@media only screen 
+and (min-device-width: 768px) 
+and (max-device-width: 1024px) 
+and (-webkit-min-device-pixel-ratio: 2) {
+
+  .contact-container {
+    width: 100%;
+    margin: auto;
+    margin-top: 1rem;
+  }
+
+
+
+
+
+}
