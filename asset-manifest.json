@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fumingdev/static/css/main.7c8cffbc.css",
+    "main.js": "/fumingdev/static/js/main.66c4b180.js",
+    "static/media/profile.jpg": "/fumingdev/static/media/profile.0b26c47d499ba17a230f.jpg",
+    "static/media/animeplatform.PNG": "/fumingdev/static/media/animeplatform.bf72a3d2dde237460c83.PNG",
+    "static/media/bestbuy.PNG": "/fumingdev/static/media/bestbuy.7e82653053d0bfd98ba4.PNG",
+    "static/media/fbproject.PNG": "/fumingdev/static/media/fbproject.1f4d952cd7a85e7691f9.PNG",
+    "index.html": "/fumingdev/index.html",
+    "main.7c8cffbc.css.map": "/fumingdev/static/css/main.7c8cffbc.css.map",
+    "main.66c4b180.js.map": "/fumingdev/static/js/main.66c4b180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c8cffbc.css",
+    "static/js/main.66c4b180.js"
+  ]
+}
