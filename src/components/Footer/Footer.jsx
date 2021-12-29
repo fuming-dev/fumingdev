@@ -1,5 +1,10 @@
 import React from 'react'
 import './footer.css'
+import { FaAngleUp } from "react-icons/fa";
+import { FaGithub } from "react-icons/fa";
+import { SiCodepen} from "react-icons/si";
+
+
 const Footer = () => {
     return (
       <div className="footer-Container">
@@ -9,17 +14,20 @@ const Footer = () => {
           </div>
           <div class="icon">
             <a href="https://codepen.io/enfieldxd">
-              <i class="fab fa-codepen"></i>
+              <SiCodepen
+              size={32}/>
             </a>
           </div>
           <div class="icon">
             <a href="https://github.com/fuming-dev">
-              <i class="fab fa-github"></i>
+              <FaGithub
+              size={32}/>
             </a>
           </div>
           <div class="icon">
             <a href="#Home">
-              <i class="fas fa-chevron-circle-up"></i>
+              <FaAngleUp
+              size={32}/>
             </a>
           </div>
           Fuming&copy;2020
