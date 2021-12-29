@@ -7,7 +7,7 @@ const Navbar = () => {
   const [showNav, setshowNav] = useState(false);
 
   return (
-    <div>
+    <div id="Home">
       <nav>
         <div className="desktop-view">
           <ul>
@@ -27,26 +27,28 @@ const Navbar = () => {
         </div>
 
         <div className="mobile-view">
-          {showNav ? (
+          {
+          
+          showNav ? (
             <RiCloseLine
               color="#fff"
               size={27}
               onClick={() => setshowNav(false)}
             />
-          ) : (
+          ) :(
             <RiMenu3Line
               color="#fff"
               size={27}
               onClick={() => setshowNav(true)}
             />
           )}
-          {showNav && (
-            <ul>
+          {showNav ? (
+            <ul onClick={() => setshowNav(false)}>
               <li>
                 <a href="#">Home</a>
               </li>
               <li>
-                <a href="#About">About</a>
+                <a href="#about">About</a>
               </li>
               <li>
                 <a href="#Projects">Projects</a>
@@ -55,7 +57,7 @@ const Navbar = () => {
                 <a href="#Contact">Contact</a>
               </li>
             </ul>
-          )}
+          ):''}
         </div>
       </nav>
     </div>
