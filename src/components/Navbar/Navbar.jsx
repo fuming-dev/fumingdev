@@ -12,7 +12,7 @@ const Navbar = () => {
         <div className="desktop-view">
           <ul>
             <li>
-              <a href="/">Home</a>
+              <a href="/portfolio/">Home</a>
             </li>
             <li>
               <a href="#about">About</a>
