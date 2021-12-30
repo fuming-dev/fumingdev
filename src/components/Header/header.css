@@ -20,6 +20,10 @@
   padding: 0.5rem;
 
 }
+.header-btn a:hover {
+  color: purple;
+}  
+
 
 button a{
     text-decoration: none;
