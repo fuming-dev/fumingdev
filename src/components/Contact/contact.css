@@ -1,35 +1,13 @@
 .contact-container {
-  width: 80%;
   margin: auto;
   margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .contact-container h1 {
-  text-align: center;
-}
-
-input {
-  width: 100%;
-  border: 1px solid;
-  font-size: 18px;
-  margin: 5px auto;
-}
-textarea {
-  width: 100%;
-  margin: 5px auto;
-
-  resize: none;
-  height: 120px;
-}
-
-.contact-container{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-.contact-container p {
   text-align: center;
 }
 
@@ -37,27 +15,30 @@ textarea {
   border: none;
   background-color: blue;
   color: white;
-  padding: 0.5rem;
+  padding: 1rem;
   margin-top:0.5rem;
   border-radius: 5px;
+  text-align: center;
+  
 }
 
 .contact-container button a {
   color: rgb(255, 225, 52);
-  text-align: center;
+  
 
 }
-
 
 .contact-container button a:hover {
     color: white;
-    text-align: center;
     
   }
   
-.contact-container .fas{
-    text-align: center;
-}
+
+  .contact-container button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
 
 
 @media only screen 
