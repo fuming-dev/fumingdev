@@ -27,7 +27,7 @@ export const projects = [
       description:
         "I built this Best Buy clone to further my design skills since I am having trouble desigining from scratch. This was a big eye opener for me to start developing.",
       image: bestbuy,
-      github: 'https://github.com/fuming-dev/bestbuyclone.git',
+      github: 'https://fuming-dev.github.io/bestbuyclone/',
     },
     {
       title: "Epic",
