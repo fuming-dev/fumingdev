@@ -9,7 +9,7 @@ export const projects = [
     description:
       "This application allows you to search for a specific anime shows. It allows to view the anime shows from a website called MyAnimeList. ",
     image: anime,
-    github: 'https://github.com/fuming-dev/SimpleVideoApiProject',
+    github: 'https://github.com/fuming-dev/AnimeDatabaseApi',
   
   },
     {
