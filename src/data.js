@@ -18,7 +18,7 @@ export const projects = [
       description:
         "I have designed this Facebook Clone to further my design skills. I am still learning. After finishing this project, I've started learning more about the best practices.",
       image: image,
-      github: 'https://github.com/fuming-dev/SimpleVideoApiProject',
+      github: '',
     },
 
     {
@@ -35,6 +35,6 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: anime,
-      github: 'https://github.com/fuming-dev/SimpleVideoApiProject',
+      github: '',
     },
   ];
