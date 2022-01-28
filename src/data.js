@@ -29,12 +29,5 @@ export const projects = [
       image: bestbuy,
       github: 'https://fuming-dev.github.io/bestbuyclone/',
     },
-    {
-      title: "Epic",
-      subtitle: "React",
-      description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: anime,
-      github: '',
-    },
+
   ];
