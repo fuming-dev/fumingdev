@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.36c1eda5.css",
-    "main.js": "/static/js/main.b9f4fc0f.js",
+    "main.js": "/static/js/main.7e0d1324.js",
     "static/media/profile.jpg": "/static/media/profile.0b26c47d499ba17a230f.jpg",
     "static/media/animeplatform.PNG": "/static/media/animeplatform.bf72a3d2dde237460c83.PNG",
     "static/media/bestbuy.PNG": "/static/media/bestbuy.7e82653053d0bfd98ba4.PNG",
     "static/media/fbproject.PNG": "/static/media/fbproject.1f4d952cd7a85e7691f9.PNG",
     "index.html": "/index.html",
     "main.36c1eda5.css.map": "/static/css/main.36c1eda5.css.map",
-    "main.b9f4fc0f.js.map": "/static/js/main.b9f4fc0f.js.map"
+    "main.7e0d1324.js.map": "/static/js/main.7e0d1324.js.map"
   },
   "entrypoints": [
     "static/css/main.36c1eda5.css",
-    "static/js/main.b9f4fc0f.js"
+    "static/js/main.7e0d1324.js"
   ]
 }
